@@ -1,24 +1,3 @@
-# uber
+# uber clone 
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Uber Clone: Designed and built a web-based Uber clone. The frontend was developed using Vue.js and Tailwind CSS, which allowed for easy customisation and responsive design - resulting in a consistent replication of the signature Uber styling. The backend utilises Node.js, Express and Axios in order to create a robust but simple API capable of facilitating the apps origin/destination and location autocomplete. Integration of Google Maps API provides accurate geolocation services, real-time location tracking, directions and estimated arrival times. https://github.com/n-igbokwe/uber
